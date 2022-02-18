@@ -35,9 +35,9 @@ raw_env = [
 # This is the path as prepared in the docker compose
 pythonpath = '/opt/apprise/webapp'
 
-# bind to port 8000
+# bind to port 8080
 bind = [
-    '0.0.0.0:8000',
+    '0.0.0.0:8080',
 ]
 
 # Workers are relative to the number of CPU's provided by hosting server

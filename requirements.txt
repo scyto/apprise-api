@@ -1,5 +1,6 @@
 django
-apprise == 0.9.6
+# apprise == 0.9.6
+apprise
 
 # 3rd party service support
 slixmpp
